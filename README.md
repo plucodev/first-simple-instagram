@@ -1,23 +1,17 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+  # Simple Instagram Photo Feed
 
+This project is just a simple Instagram clone with 4 posts, created with basic HTML and CSS code.
 
-Hi there! Welcome to Cloud9 IDE!
+## Getting Started
 
-To get you started, we included a small hello world application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+See deployment for notes on how to deploy the project on a live system.
 
-1) Open the hello-world.html file
+### Installing
 
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
+```
+https://github.com/plucodev/first-simple-instagram.git
+```
 
 
 ## Support & Documentation
