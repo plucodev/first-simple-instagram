@@ -1,0 +1,49 @@
+body{
+    background:#dedede;
+}
+.header{
+    background:white;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 24px;
+}
+
+.main-container{
+    position: absolute;
+    margin: auto;
+    width: 700px;
+    left: 50%;
+    transform: translate(-50%);
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+.post-title, .post-content{
+    padding: 15px;
+}
+.post-container {
+    background: white;
+    width:100%;
+    /*padding:15px;*/
+    margin-top: 20px;
+    overflow:hidden;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+}
+#title, #title-date{
+    font-weight: bold;
+    font-size: 26px;
+}
+#title-date{
+    color: gray;
+}
+
+.post-img img{
+    width:100%;
+    float: left;
+}
+#title, .post-content{
+    float: left;
+}
+#title-date{
+    float: right;
+}
